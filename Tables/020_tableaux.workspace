@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="020_tableaux">
+		<Project filename="010_tablEx1/010_tablEx1.cbp" />
+		<Project filename="020_tablEx2/020_tablEx2.cbp" />
+		<Project filename="030_tablEx3/030_tablEx3.cbp" />
+		<Project filename="035_tablEx4/035_tablEx4.cbp" />
+		<Project filename="040_tablTriSE/040_tablTriSE.cbp" />
+		<Project filename="050_tablTriBulles/050_tablTriBulles.cbp" />
+		<Project filename="060_tablPascal1/060_tablPascal1.cbp" />
+		<Project filename="070_tablPascal2/070_tablPascal2.cbp" />
+		<Project filename="080_tablDecomp/080_tablDecomp.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
