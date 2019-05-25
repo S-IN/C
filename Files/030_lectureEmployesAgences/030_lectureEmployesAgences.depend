@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524143291 source:u:\bip\formateur\gnmi\c-cdi\tp\080_fichiers\030_lectureemployesagences\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\c\utilitaires\entetes\agences.h"
+
+1524140721 c:\c\utilitaires\entetes\agences.h
+
+1527147002 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\080_fichiers\030_lectureemployesagences\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"\\10.75.96.101\User\Stagiaires\Group64\Reference\c\utilitaires\entetes\agences.h"
+
+1524143714 \\10.75.96.101\user\stagiaires\group64\reference\c\utilitaires\entetes\agences.h
+

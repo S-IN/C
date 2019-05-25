@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524143408 source:u:\bip\formateur\gnmi\c-cdi\tp\08_fichiers\040_biblagences\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"agences.h"
+
+1524143712 u:\bip\formateur\gnmi\c-cdi\tp\08_fichiers\040_biblagences\agences.h
+
+1524143664 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\080_fichiers\040_biblagences\agences.c
+	<stdio.h>
+	"agences.h"
+
+1524143714 c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\080_fichiers\040_biblagences\agences.h
+

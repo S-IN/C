@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527240257 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\080_fichiers\060_creationcontacts\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"\\10.75.96.101\User\Stagiaires\Group64\Reference\C\utilitaires\entetes\chaines.h"
+
+1508504752 \\10.75.96.101\user\stagiaires\group64\reference\c\utilitaires\entetes\chaines.h
+

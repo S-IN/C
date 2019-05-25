@@ -1,0 +1,6 @@
+100;GINESTE;1, rue Barbe;94000;CRETEIL;1
+110;DE GIROUD;100, avenue Montaigne;75008;PARIS;2
+125;FIEVET;17, impasse de l'egalite;77000;MELUN;1
+147;SIMARD;Rue des 4 fennecs;66000;PERPIGNAN;3
+217;AKLI;123, avenue du general De Gaulle;92000;NANTERRE;1
+314;FUMIER;Avenue du merdier;66000;PERPIGNAN;4

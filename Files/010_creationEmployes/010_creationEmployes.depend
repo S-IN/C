@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527084428 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\080_fichiers\010_creationemployes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

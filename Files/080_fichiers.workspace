@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="080_fichiers">
+		<Project filename="010_creationEmployes/010_creationEmployes.cbp" />
+		<Project filename="020_lectureEmployes/020_lectureEmployes.cbp" />
+		<Project filename="030_lectureEmployesAgences/030_lectureEmployesAgences.cbp" />
+		<Project filename="040_biblAgences/040_biblAgences.cbp" />
+		<Project filename="050_creationAgences/050_creationAgences.cbp" />
+		<Project filename="060_creationContacts/060_creationContacts.cbp" />
+		<Project filename="070_lectureContacts/070_lectureContacts.cbp" />
+		<Project filename="080_tailleContact/080_tailleContact.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
