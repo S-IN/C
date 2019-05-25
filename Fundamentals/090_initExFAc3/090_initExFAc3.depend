@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523817904 source:u:\bip\formateur\gnmi\c-cdi\tp\010_initiation\090_initexfac3\main.c
+	<stdio.h>
+	<conio.h>
+

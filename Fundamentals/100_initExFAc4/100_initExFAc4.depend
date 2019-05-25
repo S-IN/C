@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523817920 source:c:\gnmi\c-cdi\tp\01_initiation\100_initexfac4\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1523817922 source:u:\bip\formateur\gnmi\c-cdi\tp\010_initiation\100_initexfac4\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

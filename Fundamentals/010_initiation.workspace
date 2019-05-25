@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="010_initiation">
+		<Project filename="010_initEx1/010_initEx1.cbp" />
+		<Project filename="020_initEx2/020_initEx2.cbp" />
+		<Project filename="030_initEx3/030_initEx3.cbp" />
+		<Project filename="040_initEx4/040_initEx4.cbp" />
+		<Project filename="050_initEx5/050_initEx5.cbp" />
+		<Project filename="060_codeAscii/060_codeAscii.cbp" />
+		<Project filename="070_initExFac1/070_initExFac1.cbp" />
+		<Project filename="080_initExFAc2/080_initExFAc2.cbp" />
+		<Project filename="090_initExFAc3/090_initExFAc3.cbp" />
+		<Project filename="100_initExFAc4/100_initExFAc4.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

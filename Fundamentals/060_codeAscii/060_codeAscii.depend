@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523818556 source:u:\bip\formateur\gnmi\c-cdi\tp\010_initiation\060_codeascii\main.c
+	<stdio.h>
+	<conio.h>
+

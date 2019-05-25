@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523625270 source:c:\gnmi\c-cdi\tp\01_initiation\010_initex1\main.c
+	<stdio.h>
+	<math.h>
+
