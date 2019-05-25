@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524229149 source:u:\bip\formateur\gnmi\c-cdi\tpalgo\090_presentation\030_litversements\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+

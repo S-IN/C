@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524584121 source:u:\bip\formateur\gnmi\c-cdi\tpalgo\090_presentation\006_statventes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

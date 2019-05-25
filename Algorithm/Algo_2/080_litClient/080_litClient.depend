@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524323100 source:c:\gnmi\c-cdi\tpalgo\110_gadphases\080_litclient\main.c
+	<string.h>
+	<stdio.h>
+	"C:\C\utilitaires\entetes\client.h"
+
+1461322960 c:\c\utilitaires\entetes\client.h
+

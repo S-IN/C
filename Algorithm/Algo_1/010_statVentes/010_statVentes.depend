@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524229175 source:u:\bip\formateur\gnmi\c-cdi\tpalgo\090_presentation\010_statventes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\C\utilitaires\entetes\chaines.h"
+	"C:\C\utilitaires\entetes\temps.h"
+
+1508504750 c:\c\utilitaires\entetes\chaines.h
+
+1461315092 c:\c\utilitaires\entetes\temps.h
+

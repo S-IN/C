@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528268589 source:u:\bip\formateur\gnmi\c-cdi\tpalgo\120_tableaux\010_statca\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"C:\C\utilitaires\entetes\chaines.h"
+
+1508504750 c:\c\utilitaires\entetes\chaines.h
+

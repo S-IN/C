@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524322231 source:c:\gnmi\c-cdi\tpalgo\110_gadphases\030_factures\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"C:\C\utilitaires\entetes\chaines.h"
+	"C:\C\utilitaires\entetes\temps.h"
+	"C:\C\utilitaires\entetes\client.h"
+
+1508504752 c:\c\utilitaires\entetes\chaines.h
+
+1461315092 c:\c\utilitaires\entetes\temps.h
+
+1461322960 c:\c\utilitaires\entetes\client.h
+

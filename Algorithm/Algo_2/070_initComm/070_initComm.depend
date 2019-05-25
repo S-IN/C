@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524323045 source:c:\gnmi\c-cdi\tpalgo\110_gadphases\070_initcomm\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"C:\C\utilitaires\entetes\chaines.h"
+
+1508504752 c:\c\utilitaires\entetes\chaines.h
+
