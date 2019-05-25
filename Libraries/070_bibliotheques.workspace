@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="070_bibliotheques">
+		<Project filename="010_biblChaines/010_biblChaines.cbp" />
+		<Project filename="020_biblChainesReference/020_biblChainesReference.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

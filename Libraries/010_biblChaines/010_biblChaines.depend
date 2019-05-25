@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524063176 source:u:\bip\formateur\gnmi\c-cdi\tp\07_bibliotheques\010_biblchaines\chaines.c
+	<stdio.h>
+	<string.h>
+	"chaines.h"
+
+1524063224 u:\bip\formateur\gnmi\c-cdi\tp\07_bibliotheques\010_biblchaines\chaines.h
+
+1524063119 source:u:\bip\formateur\gnmi\c-cdi\tp\07_bibliotheques\010_biblchaines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaines.h"
+
+1524063602 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\070_bibliotheques\010_biblchaines\chaines.c
+	<stdio.h>
+	<string.h>
+	"chaines.h"
+
+1524063526 c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\070_bibliotheques\010_biblchaines\chaines.h
+
+1524063778 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\070_bibliotheques\010_biblchaines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaines.h"
+

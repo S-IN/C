@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524064339 source:u:\bip\formateur\gnmi\c-cdi\tp\07_bibliotheques\020_biblchainesreference\main.c
+	<string.h>
+	<stdio.h>
+	"C:\c\utilitaires\entetes\chaines.h"
+
+1508504750 c:\c\utilitaires\entetes\chaines.h
+
+1524064340 source:c:\formations informatiques\section c.d.i\dvlp algo-c\dvlp_langage-c_creteil\tp\070_bibliotheques\020_biblchainesreference\main.c
+	<string.h>
+	<stdio.h>
+	"C:\c\utilitaires\entetes\chaines.h"
+
