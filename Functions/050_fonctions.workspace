@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="050_fonctions">
+		<Project filename="010_foncFractions/010_foncFractions.cbp" />
+		<Project filename="020_foncChaines/020_foncChaines.cbp" />
+		<Project filename="030_foncChaines/030_foncChaines.cbp" />
+		<Project filename="040_foncChaines/040_foncChaines.cbp" />
+		<Project filename="050_foncChaines/050_foncChaines.cbp" />
+		<Project filename="060_foncChaines/060_foncChaines.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
