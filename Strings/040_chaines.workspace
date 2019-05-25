@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="040_chaines">
+		<Project filename="010_chaineEx1/010_chaineEx1.cbp" />
+		<Project filename="020_chaineEx2/020_chaineEx2.cbp" />
+		<Project filename="030_chaineEx3/030_chaineEx3.cbp" />
+		<Project filename="040_chaineEx4/040_chaineEx4.cbp" />
+		<Project filename="050_chaineEx5/050_chaineEx5.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

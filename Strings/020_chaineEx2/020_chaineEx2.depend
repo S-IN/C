@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523633538 source:u:\bip\formateur\gnmi\c-cdi\tp\04_chaines\020_chaineex2\main.c
+	<stdio.h>
+	<string.h>
+
